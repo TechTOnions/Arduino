@@ -25,7 +25,7 @@ Here are 6 simple ways for blinking and Arduino led using an Arduino board.
 **5) Blink LED using  Timer Interrupt**
  * Tricky to understand.
  * Code will be none Blocking.
-` * Code uses 880 bytes of program memory and Global variables use 10 bytes.
+ * Code uses 880 bytes of program memory and Global variables use 10 bytes.
 
 **6) Blink LED using Hardware Timer Toggle**
  * Tricky to understand.
