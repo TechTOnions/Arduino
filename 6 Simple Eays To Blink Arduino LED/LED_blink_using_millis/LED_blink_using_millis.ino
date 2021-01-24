@@ -1,9 +1,9 @@
 /*
-   Date: 23-01-21
+  Date: 23-01-21
   Code writen by: Dharmik
   LED blink code using millis
   Code is non blocking code
-  Code uses 924 bytes of program memory and Global variables use 9 byes
+  Code uses 924 bytes of program memory and Global variables use 9 bytes
   Find more on www.TechTOnions.com
 */
 

@@ -1,7 +1,7 @@
 /*
   Code writen by: Dharmik 
   Basic LED blink code using Delay
-  Code uses 924 bytes of program memory and Global variables use 9 byes.
+  Code uses 924 bytes of program memory and Global variables use 9 bytes.
   Find more on www.TechTOnions.com
  */
 

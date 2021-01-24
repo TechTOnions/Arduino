@@ -3,7 +3,7 @@
   Code writen by: Dharmik
   LED blink code using Watchdog timer interrupt
   Code is non blocking code and tested on Arduino UNO, Nano
-  Code uses 810 bytes of program memory and Global variables use 10 byes
+  Code uses 810 bytes of program memory and Global variables use 10 bytes
   Find more on www.TechTOnions.com
 */
 
