@@ -3,7 +3,7 @@
   Code writen by: Dharmik
   LED blink code using millis
   Code is non blocking code
-  Code uses 924 bytes of program memory and Global variables use 9 bytes
+  Code uses 866 bytes of program memory and Global variables use 14 bytes
   Find more on www.TechTOnions.com
 */
 
@@ -16,17 +16,14 @@ void setup() {
 }
 
 void loop() {
-
   if (millis() - previousMillis >= 1000)  // check that 1000ms is pass
   {
-    
     if (ledState == false) {              // check the leddState and toggle it. 
       ledState = true;
     }
     else {
       ledState = false;
     }
-    
     digitalWrite(LED, ledState);          // Set LED state to ledState 
     previousMillis = millis();            // set previousMillis to current millis
   }

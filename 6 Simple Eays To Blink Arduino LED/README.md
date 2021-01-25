@@ -5,7 +5,7 @@ Here are 6 simple ways for blinking and Arduino led using an Arduino board.
 **1) Blink LED using Delay.**
  * Simplest method to understand as a beginner.
  * Code will be blocked due to delay.
- * Code uses 924 bytes of program memory and Global variables use 9 bytes.
+ * Code uses 866 bytes of program memory and Global variables use 14 bytes.
 
 **2) Blink LED using Counter variable**
  * Also simple to understand
