@@ -17,11 +17,11 @@ void setup() {
 void loop() {
 
   counter++;                 // will increment counter by 1 
-  if (counter == 100000)     // Check if conter value reach to 100000
+  if (counter == 100000)     // Check if counter value reach to 100000
   {
     digitalWrite(LED, HIGH); // turn LED ON by writing HIGH (Sending 5v to pin 13)
   }
-  else if (counter == 200000) // Check if conter value reach to 200000
+  else if (counter == 200000) // Check if counter value reach to 200000
   {
     counter = 0;             // making counter value to 0
     digitalWrite(LED, LOW);  // turn LED OFF by writing LOW (Sending 0v to pin 13)
