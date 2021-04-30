@@ -22,7 +22,7 @@ void setup() {
   //WDTCSR = (1 << WDIE);                                     //16ms
   //WDTCSR = (1 << WDIE) | (1 << WDP0);                       //32ms
   //WDTCSR = (1 << WDIE) | (1 << WDP1);                       //64ms
-  //WDTCSR = (1 << WDIE) | (1 << WDP1) | (1 << WDP0);         //0.12s
+  //WDTCSR = (1 << WDIE) | (1 << WDP1) | (1 << WDP0);         //0.125s
   //WDTCSR = (1 << WDIE) | (1 << WDP2);                       //0.25s
   //WDTCSR = (1 << WDIE) | (1 << WDP2) | (1 << WDP0);         //0.5s
   WDTCSR = (1 << WDIE) | (1 << WDP2) | (1 << WDP1);           //1s
