@@ -1,8 +1,8 @@
 /*
   Date: 23-01-21
-  Code writen by: Dharmik
+  Code written by: Dharmik
   LED blink code using Watchdog timer interrupt
-  Code is non blocking code and tested on Arduino UNO, Nano, Mega
+  Code is non-blocking code and tested on Arduino UNO, Nano, Mega
   Code uses 810 bytes of program memory and Global variables use 10 bytes
   Find more on www.TechTOnions.com
 */
@@ -17,7 +17,7 @@ void setup() {
   WDTCSR = (1 << WDCE) | (1 << WDE);                          //enable Watchdog interrupt
 
   /********************************************************************************************/
-  //Uncoment any one time interval as per your requirenment
+  //Uncomment any one-time interval as per your requirement
 
   //WDTCSR = (1 << WDIE);                                     //16ms
   //WDTCSR = (1 << WDIE) | (1 << WDP0);                       //32ms
