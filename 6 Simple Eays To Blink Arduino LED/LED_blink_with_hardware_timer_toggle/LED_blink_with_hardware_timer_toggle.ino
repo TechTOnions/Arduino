@@ -1,6 +1,6 @@
 /*
   Date: 23-01-21
-  Code writen by: Dharmik
+  Code written by: Dharmik
   LED blink code using hardware timer interrupt
   This method only work for Digital pin 9
   Code is non blocking code and tested on Arduino UNO, Nano
