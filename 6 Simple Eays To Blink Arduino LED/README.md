@@ -1,6 +1,7 @@
 # 6 Simple ways to blink an LED using Arduino
 
 Here are 6 simple ways for blinking and Arduino led using an Arduino board.
+Find Completer code explanation at [TechTOnions](https://www.techtonions.com/6-simple-ways-to-blink-arduino-led/)
 
 **1) Blink LED using Delay.**
  * Simplest method to understand as a beginner.
