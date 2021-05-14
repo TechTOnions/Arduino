@@ -1,5 +1,5 @@
 # 6 Simple ways to blink an LED using Arduino
-[![6 Simple ways to blink an LED using Arduino](https://www.techtonions.com/wp-content/uploads/2020/12/ezgif.com-gif-maker-1.webp)](https://www.techtonions.com/6-simple-ways-to-blink-arduino-led/) 
+[![6 Simple ways to blink an LED using Arduino](https://www.techtonions.com/wp-content/uploads/2020/12/6-ways-to-led-blink-using-arduino.webp)](https://www.techtonions.com/6-simple-ways-to-blink-arduino-led/) 
 
 Here are 6 simple ways for blinking and Arduino led using an Arduino board.
 Find Completer code explanation at [TechTOnions](https://www.techtonions.com/6-simple-ways-to-blink-arduino-led/)
